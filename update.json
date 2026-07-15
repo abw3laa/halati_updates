@@ -1,0 +1,11 @@
+{
+  "latestVersion": "2.0.0",
+  "latestBuildNumber": 2,
+  "apkUrl": "https://placeholder-url-for-now.com",
+  "minRequiredBuildNumber": null,
+  "releaseNotes": {
+    "ar": "تحديث الإصدار الثاني: تم تحسين واجهة المستخدم، وإضافة ميزات جديدة لحفظ الحالات واستقرار كامل للنظام.",
+    "en": "Version 2.0.0: UI improvements, new status saving features, and overall stability.",
+    "tr": "Sürüm 2.0.0: Arayüz iyileştirmeleri, yeni durum kaydetme özellikleri ve tam kararlılık."
+  }
+}
