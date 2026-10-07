@@ -1,11 +1,12 @@
 {
-  "latestVersion": "2.0.0",
-  "latestBuildNumber": 2,
-  "apkUrl": "https://placeholder-url-for-now.com",
+  "latestVersion": "2.1.0",
+  "latestBuildNumber": 2007,
+  "apkUrl": "https://github.com/abw3laa/halati_app/releases/download/v2.1.0/halati-v2.1.0.apk",
   "minRequiredBuildNumber": null,
+  "sha256": null,
   "releaseNotes": {
-    "ar": "تحديث الإصدار الثاني: تم تحسين واجهة المستخدم، وإضافة ميزات جديدة لحفظ الحالات واستقرار كامل للنظام.",
-    "en": "Version 2.0.0: UI improvements, new status saving features, and overall stability.",
-    "tr": "Sürüm 2.0.0: Arayüz iyileştirmeleri, yeni durum kaydetme özellikleri ve tam kararlılık."
+    "ar": "الإصدار 2.1.0: إعادة تصميم حديثة بالكامل مع وضع Soft Light والوضع الداكن، تحسين التنقل والبطاقات وتجربة عرض الحالات والتنزيلات، مع تحسين آلية التحديث.",
+    "en": "Version 2.1.0: a complete modern UI refresh with Soft Light and Dark themes, improved navigation, status and download experiences, and a stronger update flow.",
+    "tr": "Sürüm 2.1.0: Soft Light ve Koyu tema, yenilenmiş gezinme, durum ve indirme deneyimi ve geliştirilmiş güncelleme akışı."
   }
 }
