@@ -1,12 +1,12 @@
 {
-  "latestVersion": "2.1.0",
-  "latestBuildNumber": 2007,
-  "apkUrl": "https://github.com/abw3laa/halati_app/releases/download/v2.1.0/halati-2.1.0.apk",
+  "latestVersion": "2.1.1",
+  "latestBuildNumber": 211,
+  "apkUrl": "https://github.com/abw3laa/halati_app/releases/download/v2.1.1/halati-2.1.1.apk",
   "minRequiredBuildNumber": null,
   "sha256": null,
   "releaseNotes": {
-    "ar": "الإصدار 2.1.0: إعادة تصميم حديثة بالكامل مع وضع Soft Light والوضع الداكن، تحسين التنقل والبطاقات وتجربة عرض الحالات والتنزيلات، مع تحسين آلية التحديث.",
-    "en": "Version 2.1.0: a complete modern UI refresh with Soft Light and Dark themes, improved navigation, status and download experiences, and a stronger update flow.",
-    "tr": "Sürüm 2.1.0: Soft Light ve Koyu tema, yenilenmiş gezinme, durum ve indirme deneyimi ve geliştirilmiş güncelleme akışı."
+    "ar": "الإصدار 2.1.1: تحديث واجهة حالاتي مع دعم Soft Light والوضع الداكن وتحسين التنقل وتجربة الحالات والتنزيلات.",
+    "en": "Version 2.1.1: refreshed Halati UI with Soft Light and Dark themes, improved navigation, and refined status and download experiences.",
+    "tr": "Sürüm 2.1.1: Soft Light ve Koyu temalar, yenilenen gezinme ve geliştirilmiş durum ve indirme deneyimi."
   }
 }
